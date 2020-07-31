@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="346" height="32.166" viewBox="0 0 346 32.166">
+  <g id="underline" transform="translate(-547 -2803.007)">
+    <path id="Path_16" data-name="Path 16" d="M-4045.612,2884.919c11.936-15.375,13.984-24.175,13.984-24.175l7.865,4.45,10.722-12.441,14.566,18.207,6.2-8.7,7.965,22.658Z" transform="translate(4734 -49.746)" fill="#7b7878"/>
+    <path id="Path_17" data-name="Path 17" d="M-4025.649,2925.148l13.757-13.959h-4.552Z" transform="translate(4719.601 -91.896)" fill="#fff"/>
+    <path id="Path_18" data-name="Path 18" d="M-4000.968,2892.19l6.373-2.63v2.023l3.844-4.35v4.957l9.913-23.467Z" transform="translate(4701.798 -61.265)" fill="#fff"/>
+    <path id="Path_19" data-name="Path 19" d="M-3922.207,2878.16l4.653,14.97,2.327-3.338,3.743,1.618Z" transform="translate(4644.986 -68.072)" fill="#fff"/>
+    <g id="underline-2" data-name="underline">
+      <line id="Line_6" data-name="Line 6" x2="139" transform="translate(548.5 2824.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_7" data-name="Line 7" x2="139" transform="translate(752.5 2824.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+      <path id="Path_20" data-name="Path 20" d="M-3872.874,2935.15c-1.214-1.315-6.777-7.991-6.777-7.991l1.012,6.271h-3.642l2.63,2.63,8.092,1.214Z" transform="translate(4616.187 -103.416)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
