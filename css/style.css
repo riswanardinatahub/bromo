@@ -17,6 +17,9 @@ footer {
 }
 
 header {
+  -ms-transform: translate3d(0, 0, 0);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
   background-image: url(../img/backgroud.jpg);
   background-repeat: no-repeat;
   background-size: cover;
